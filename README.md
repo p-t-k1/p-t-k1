@@ -1,6 +1,6 @@
 ### Whats up, I'm Patryk 👋
 
-Applied Computer Science student at [University of Applied Sciences in Tarnów](https://pwsztar.edu.pl/). I’m interested in frontend and mobile app development - mainly React and React Native
+Computer Science student at [University of Applied Sciences in Tarnów](https://pwsztar.edu.pl/). I’m interested in frontend and mobile app development - mainly React and React Native
 
 ### 📫 Get in Touch
 * Email: <kontakt@pprzybylo.pl>
