@@ -1,5 +1,10 @@
-### Hi there 👋
+### Whats up, I'm Patryk 👋
 
+Applied Computer Science student at [University of Applied Sciences in Tarnów](https://pwsztar.edu.pl/). I’m interested in frontend and mobile app development - mainly React and React Native
+
+### 📫 Get in Touch
+* Email: <kontakt@pprzybylo.pl>
+* Linkedin: [linkedin](https://www.linkedin.com/in/patryk-przyby%C5%82o-b57626237/)
 <!--
 **p-t-k1/p-t-k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
