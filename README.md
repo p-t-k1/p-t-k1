@@ -6,7 +6,7 @@ I specialize in backend, frontend, and mobile app development, with a particular
 
 
 ### 📫 Get in Touch
-* Email: <kontakt@pprzybylo.pl>
+* Kontakt: <kontakt@pprzybylo.pl>
 * Linkedin: [LinkedIn](https://www.linkedin.com/in/patryk-przyby%C5%82o-b57626237/)
 <!--
 **p-t-k1/p-t-k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
